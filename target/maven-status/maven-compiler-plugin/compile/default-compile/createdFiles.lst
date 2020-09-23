@@ -1,0 +1,6 @@
+com\kwz\mapper\StudentMapper.class
+com\kwz\controller\StudentController.class
+com\kwz\MyBatisPlusApplication.class
+com\kwz\MyBatisPlusConfig.class
+com\kwz\service\StudentService.class
+com\kwz\entity\Student.class
